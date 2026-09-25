@@ -1,7 +1,5 @@
 package practice;
 
-import java.lang.classfile.attribute.SyntheticAttribute;
-
 public class operators {
      static void  main(String[] args){
         int a=21;
