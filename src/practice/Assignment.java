@@ -34,6 +34,7 @@ public class Assignment {
         System.out.println(a>b?"PASS":"FAIL");
         System.out.println(z>x? "PASS" : "FAIL");
 
+        // Salary Calculator
         int basic= 50000;
         int bonus= 5000;
         double tax= 0.10;
