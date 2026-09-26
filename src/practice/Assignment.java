@@ -28,7 +28,7 @@ public class Assignment {
         System.out.println("Price is fixed =" + price);
 
         //5. predict int a=10; System.out.println(a++ + ++a);
-        System.out.println("Value of unary expression is =" + a++ + ++a);
+        System.out.println("Value of unary expression is =" + (a++ + ++a));
 
         // 6. Write a program using ?: to print PASS/FAIL.
         System.out.println(a>b?"PASS":"FAIL");
