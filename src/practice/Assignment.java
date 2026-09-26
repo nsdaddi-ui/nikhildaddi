@@ -16,16 +16,16 @@ public class Assignment {
         int x=5;
         int y= x++;
         int z= ++x;
-        System.out.println("Value of Y is :-" + y);
-        System.out.println("Value of Z is:-" + z);
+        System.out.println("Value of Y is: " + y);
+        System.out.println("Value of Z is: " + z);
 
         //3.what is value od d
         int d=10/4;
         System.out.println("Value of D is=" + d);
 
         //4. Fix float price = 99.99;
-        double price = 99.99;
-        System.out.println("Pricr is fixed =" + price);
+        float price = 99.99f;
+        System.out.println("Price is fixed =" + price);
 
         //5. predict int a=10; System.out.println(a++ + ++a);
         System.out.println("Value of unary expression is =" + a++ + ++a);
