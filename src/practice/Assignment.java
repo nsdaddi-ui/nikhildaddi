@@ -1,6 +1,6 @@
 package practice;
 
-import java.lang.classfile.attribute.SyntheticAttribute;
+import java.lang.*;
 
 public class Assignment {
     public static void main (String[] args){
